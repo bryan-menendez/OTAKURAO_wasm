@@ -1,0 +1,147 @@
+/* /Pages/Game.razor.rz.scp.css */
+/* /Pages/Index.razor.rz.scp.css */
+.otk-dark-bg[b-gr7sjbzopb] {
+    background-color: #060709;
+    background-size: contain;
+    background-position: center;
+}
+
+.otk-banner[b-gr7sjbzopb] {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+.otk-index[b-gr7sjbzopb] {
+    height: 100%;
+    max-height: 100%;
+}
+
+.container-fluid[b-gr7sjbzopb] {
+    height: 100%;
+    max-height: 100%;
+}
+
+.btn-primary[b-gr7sjbzopb], .btn-primary:hover[b-gr7sjbzopb], .btn-primary:active[b-gr7sjbzopb], .btn-primary:visited[b-gr7sjbzopb] {
+    background-color: #C8AC63 !important;
+    font-family: 'Manga';
+    max-width: 80%;
+    font-size: xx-large;
+}
+
+@media (max-width: 640.98px) {
+    .btn-primary[b-gr7sjbzopb], .btn-primary:hover[b-gr7sjbzopb], .btn-primary:active[b-gr7sjbzopb], .btn-primary:visited[b-gr7sjbzopb] {
+        width: 80%;
+    }
+}
+
+@media (min-width: 641px) {
+    .btn-primary[b-gr7sjbzopb], .btn-primary:hover[b-gr7sjbzopb], .btn-primary:active[b-gr7sjbzopb], .btn-primary:visited[b-gr7sjbzopb] {
+        min-width: 40%;
+        max-width: 50%;
+    }
+}
+/* /Shared/Footer.razor.rz.scp.css */
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-v2sba7l5rx] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 641px) {
+
+}
+    
+/* /Shared/NavBar.razor.rz.scp.css */
+h1[b-vwlhz76aa4] {
+    font-family: "Manga";
+    margin: auto;
+    text-align: center;
+}
+
+img[b-vwlhz76aa4] {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    max-height: 3rem;
+    max-width: 100%;
+}
+
+.top-row[b-vwlhz76aa4] {
+    background-color: #f7f7f7;
+    height: 3.5rem;
+    max-height: 3.5rem;
+}
+
+@media (max-width: 640.98px) {
+
+}
+
+@media (min-width: 641px){
+    .top-row[b-vwlhz76aa4] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-jz7dyn242t] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-jz7dyn242t] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-jz7dyn242t] {
+    font-size: 1.1rem;
+}
+
+.oi[b-jz7dyn242t] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-jz7dyn242t] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-jz7dyn242t] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-jz7dyn242t] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-jz7dyn242t]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-jz7dyn242t]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-jz7dyn242t]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-jz7dyn242t] {
+        display: none;
+    }
+
+    .collapse[b-jz7dyn242t] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

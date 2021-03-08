@@ -1,0 +1,34 @@
+﻿@font-face {
+    font-family: 'Manga';
+    src: url('Manga.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Shinto';
+    src: url('GBShinto-Regular.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Temple';
+    src: url('manga-temple.regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Komika';
+    src: url('KOMTXT__.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Letteromatic';
+    src: url('ltromatic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}

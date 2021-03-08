@@ -1,0 +1,30 @@
+h1[b-vwlhz76aa4] {
+    font-family: "Manga";
+    margin: auto;
+    text-align: center;
+}
+
+img[b-vwlhz76aa4] {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    max-height: 3rem;
+    max-width: 100%;
+}
+
+.top-row[b-vwlhz76aa4] {
+    background-color: #f7f7f7;
+    height: 3.5rem;
+    max-height: 3.5rem;
+}
+
+@media (max-width: 640.98px) {
+
+}
+
+@media (min-width: 641px){
+    .top-row[b-vwlhz76aa4] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
