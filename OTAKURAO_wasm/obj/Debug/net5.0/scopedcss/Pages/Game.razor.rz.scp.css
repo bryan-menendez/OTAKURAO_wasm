@@ -1,0 +1,19 @@
+.btn-primary[b-cibh0ehs8h], .btn-primary:hover[b-cibh0ehs8h], .btn-primary:active[b-cibh0ehs8h], .btn-primary:visited[b-cibh0ehs8h] {
+    background-color: #C8AC63 !important;
+    font-family: 'Manga';
+    max-width: 80%;
+    font-size: xx-large;
+}
+
+@media (max-width: 640.98px) {
+    .btn-primary[b-cibh0ehs8h], .btn-primary:hover[b-cibh0ehs8h], .btn-primary:active[b-cibh0ehs8h], .btn-primary:visited[b-cibh0ehs8h] {
+        width: 80%;
+    }
+}
+
+@media (min-width: 641px) {
+    .btn-primary[b-cibh0ehs8h], .btn-primary:hover[b-cibh0ehs8h], .btn-primary:active[b-cibh0ehs8h], .btn-primary:visited[b-cibh0ehs8h] {
+        min-width: 40%;
+        max-width: 50%;
+    }
+}

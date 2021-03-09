@@ -82,6 +82,7 @@ using OTAKURAO_wasm.Shared;
 #line default
 #line hidden
 #nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/game")]
     public partial class Game : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

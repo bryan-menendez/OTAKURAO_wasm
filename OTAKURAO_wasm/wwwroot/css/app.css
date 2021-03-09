@@ -8,6 +8,13 @@ html, body, .page, .main, .content, #app {
     max-width: 100%;
 }
 
+.otk-dark-bg {
+    background-color: #060709;
+    background-size: contain;
+    background-position: center;
+}
+
+
 #loading {
     background-image: url('../images/loading.jpg');
     background-repeat: no-repeat;
