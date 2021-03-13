@@ -21,16 +21,12 @@
     }
 }
 /* /Pages/Index.razor.rz.scp.css */
-.otk-banner[b-gr7sjbzopb] {
-    margin-top: 1rem;
-    margin-bottom: 3rem;
-}
 .otk-index[b-gr7sjbzopb] {
     height: 100%;
     max-height: 100%;
 }
 
-.container-fluid[b-gr7sjbzopb] {
+.ontainer-fluid[b-gr7sjbzopb] {
     height: 100%;
     max-height: 100%;
 }
@@ -38,20 +34,17 @@
 .btn-primary[b-gr7sjbzopb], .btn-primary:hover[b-gr7sjbzopb], .btn-primary:active[b-gr7sjbzopb], .btn-primary:visited[b-gr7sjbzopb] {
     background-color: #C8AC63 !important;
     font-family: 'Manga';
-    max-width: 80%;
     font-size: xx-large;
 }
 
 @media (max-width: 640.98px) {
     .btn-primary[b-gr7sjbzopb], .btn-primary:hover[b-gr7sjbzopb], .btn-primary:active[b-gr7sjbzopb], .btn-primary:visited[b-gr7sjbzopb] {
-        width: 80%;
     }
 }
 
 @media (min-width: 641px) {
     .btn-primary[b-gr7sjbzopb], .btn-primary:hover[b-gr7sjbzopb], .btn-primary:active[b-gr7sjbzopb], .btn-primary:visited[b-gr7sjbzopb] {
-        min-width: 40%;
-        max-width: 50%;
+
     }
 }
 /* /Shared/Footer.razor.rz.scp.css */
@@ -81,7 +74,7 @@ img[b-vwlhz76aa4] {
 }
 
 .top-row[b-vwlhz76aa4] {
-    background-color: #f7f7f7;
+    background-color: #BF3A27;
     height: 3.5rem;
     max-height: 3.5rem;
 }

@@ -10,9 +10,17 @@ namespace OTAKURAO_wasm.Pages
 {
     public partial class Game
     {
+
         public Game()
         {
 
         }
+
+        public void NextSlide()
+        {
+
+        }
+
+
     }
 }
